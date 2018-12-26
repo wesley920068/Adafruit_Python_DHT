@@ -56,6 +56,3 @@ while True:
 		print('Failed to get reading. Try again!')
 		sys.exit(1)
 		time.sleep(1)
-
-
-
